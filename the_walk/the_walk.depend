@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1556302802 source:f:\fmi\poo\the_walk\main.cpp
+	<iostream>
+	"Map.h"
+	"Robot1.h"
+	"Robot2.h"
+	"Robot3.h"
+	<stdlib.h>
+
+1556305737 f:\fmi\poo\the_walk\map.h
+
+1556286027 f:\fmi\poo\the_walk\robot1.h
+	"Map.h"
+
+1556286027 f:\fmi\poo\the_walk\robot2.h
+	"Map.h"
+
+1556286027 f:\fmi\poo\the_walk\robot3.h
+	"Map.h"
+
+1556305971 source:f:\fmi\poo\the_walk\map.cpp
+	"Map.h"
+	<stdlib.h>
+	<iostream>
+	<ctime>
+
+1556303066 source:f:\fmi\poo\the_walk\robot1.cpp
+	"Robot1.h"
+	<iostream>
+
+1556303999 source:f:\fmi\poo\the_walk\robot2.cpp
+	"Robot2.h"
+	<iostream>
+
+1556304395 source:f:\fmi\poo\the_walk\robot3.cpp
+	"Robot3.h"
+	<iostream>
+
